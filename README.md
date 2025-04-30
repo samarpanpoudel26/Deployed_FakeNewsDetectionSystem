@@ -36,11 +36,11 @@ This project was developed as part of the CS196 Final Project. It uses machine l
    ```
 
 ## Demo Video
-[Link to Demo Video](https://drive.google.com/drive/folders/YOUR_FOLDER_ID)
+https://www.youtube.com/watch?v=IcxVXT3AMTc
 
 ## Deployment
 This project is deployed on Streamlit Cloud. You can access it at:
-[https://deployed-fakenewsdetectionsystem.streamlit.app](https://deployed-fakenewsdetectionsystem.streamlit.app)
+https://deployedfakenewsdetectionsystem-mmmwt2ttplkm3rapcp9h6v.streamlit.app/
 
 ## Technologies Used
 - Python
@@ -49,9 +49,7 @@ This project is deployed on Streamlit Cloud. You can access it at:
 - NLTK
 - Pandas
 
-## Author
-- Name: Samarpan Poudel
-- GitHub: [samarpanpoudel26](https://github.com/samarpanpoudel26)
+
 
 ## Documentation
 The project includes:
